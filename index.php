@@ -3,7 +3,7 @@
 	include "inc/top-part.inc";
  ?>
 		
-		 <div class="container">
+		<div class="container">
     		<div class="section">
 
 			<div class="row">
