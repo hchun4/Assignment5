@@ -7,7 +7,7 @@
     		<div class="section">
 
     			<figure>
-    				<img src="images/tori.jpg" alt="Tori Madway">
+    				<img src="images/tori.jpg" alt="Tori Madway" class="z-depth-2">
     			</figure>
 
 				<h2>About Me</h2>
