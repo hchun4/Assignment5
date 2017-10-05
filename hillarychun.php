@@ -7,7 +7,7 @@
     		<div class="section">
 				
 				<figure>
-					<img src="images/hillary.jpg" alt="Hillary Chun">
+					<img src="images/hillary.jpg" alt="Hillary Chun" class="z-depth-2">
 				</figure>
 
 				<h2>About Me</h2>
