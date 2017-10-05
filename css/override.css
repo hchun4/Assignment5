@@ -66,6 +66,7 @@ a:hover{
 }
 
 @media (max-width: 650px) {
+<<<<<<< HEAD
 	figure{
 		float:none;
 		text-align:center;
@@ -75,3 +76,10 @@ a:hover{
 
 
 
+=======
+  figure {
+    float: none;
+    text-align: center;
+  }
+}
+>>>>>>> c595d0cf7a51bc4cf1e882c1c86aeab14a40c2a7

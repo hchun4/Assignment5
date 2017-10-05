@@ -11,6 +11,7 @@
     			</figure>
 
 				<h2>About Me</h2>
+			
 					<ul>
 						<li>Anchorage, AK</li>
 						<li>20 Years Old</li>
