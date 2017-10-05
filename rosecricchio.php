@@ -7,7 +7,7 @@
     		<div class="section">
 
     			<figure>
-    				<img src="images/rose.jpg" alt="Rose Cricchio" class="z-depth-2">
+    				<img class="responsive-img" src="images/rose.jpg" alt="Rose Cricchio" class="z-depth-2">
     			</figure>
 
 				<h2>About Me</h2>
